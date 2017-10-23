@@ -5,7 +5,8 @@ the website will display the description of the project.
 
 ## Install
 1. Create a new folder in your desktop and name it **portfolio_site**
-1. Please download folders **css**, **img**, **js**, config.json, and index.html in the folder **portfolio_site**
+2. Please download folder **framework** in the folder **portfolio_site**
+3. Double check that folders **css**, **img**, **js**, config.json, index.html are in the folder **framework**
 
 ## Instruction for using 
 1. In the folder **portfolio_site**, open index.html and it will show you the portfolio site
